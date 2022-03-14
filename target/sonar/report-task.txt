@@ -1,0 +1,6 @@
+projectKey=springboot-ds2
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=springboot-ds2
+ceTaskId=AX-AmfA6nkGj_mkLvumn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX-AmfA6nkGj_mkLvumn

@@ -1,0 +1,12 @@
+2022-03-14 13:53:07,366 INFO [http-nio-8085-exec-1] c.d.s.e.UsuarioValidationAdvice [UsuarioValidationAdvice.java:22] User not valid. Msg.No valid user
+2022-03-14 13:53:11,818 INFO [http-nio-8085-exec-3] c.d.s.c.UsuarioController [UsuarioController.java:50] HTTP POST: saveUser(hola,3) was thrown.
+2022-03-14 13:54:38,952 INFO [http-nio-8085-exec-6] c.d.s.c.UsuarioController [UsuarioController.java:40] HTTP GET: getUsers() was thrown.
+2022-03-14 13:54:44,146 INFO [http-nio-8085-exec-7] c.d.s.c.UsuarioController [UsuarioController.java:61] HTTP GET: getUsersById(2) was thrown.
+2022-03-14 13:54:55,789 INFO [http-nio-8085-exec-8] c.d.s.c.UsuarioController [UsuarioController.java:61] HTTP GET: getUsersById(2000000) was thrown.
+2022-03-14 13:54:55,802 INFO [http-nio-8085-exec-8] c.d.s.e.UsuarioNotFoundAdvice [UsuarioNotFoundAdvice.java:22] User no found. Msg.No se pudo encontrar al usuario 2000000
+2022-03-14 14:06:03,382 INFO [http-nio-8085-exec-1] c.d.s.c.UsuarioController [UsuarioController.java:40] HTTP GET: getUsers() was thrown.
+2022-03-14 14:06:28,354 INFO [http-nio-8085-exec-3] c.d.s.c.UsuarioController [UsuarioController.java:61] HTTP GET: getUsersById(10000) was thrown.
+2022-03-14 14:06:28,439 INFO [http-nio-8085-exec-3] c.d.s.e.UsuarioNotFoundAdvice [UsuarioNotFoundAdvice.java:22] User no found. Msg.No se pudo encontrar al usuario 10000
+2022-03-14 14:07:16,126 INFO [http-nio-8085-exec-4] c.d.s.c.UsuarioController [UsuarioController.java:61] HTTP GET: getUsersById(1) was thrown.
+2022-03-14 14:07:59,628 INFO [http-nio-8085-exec-5] c.d.s.c.UsuarioController [UsuarioController.java:50] HTTP POST: saveUser(eduardo,24) was thrown.
+2022-03-14 14:08:31,937 INFO [http-nio-8085-exec-6] c.d.s.e.UsuarioValidationAdvice [UsuarioValidationAdvice.java:22] User not valid. Msg.No valid user
